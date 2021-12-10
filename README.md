@@ -20,12 +20,17 @@ Instructions on its use below in the screenshots.
 
 ### More detailed description of function:
 ![Image 1](https://user-images.githubusercontent.com/74934154/145523125-0479459b-4d00-4160-a7b6-9f90598461c1.png)
+
 1a) Click New Recipe to add a new recipe. The recipe name will appear in the next empty row in the E4:E list at 1b). It will also generate a new recipe sheet at 1c).
 
 ![Image 2](https://user-images.githubusercontent.com/74934154/145523121-668a50f2-1e2c-4237-8183-977534586ebb.png)
+
 On the recipe sheet, it will have various fields for you to manually input the recipe details. Notice how the sheet and A2 are named after your recipe.
 
 ![Image 3](https://user-images.githubusercontent.com/74934154/145523122-ee6a3585-d4d2-42b2-a66d-656ff6745c51.png)
+
 You can navigate and delete recipes from your home sheet or your recipe sheet, shown at 2a) and 2b). 3a) and 3b) will allow you to append or clear all ingredients of selected recipes to a convenient shopping list in A4:C
+
+There is more you can do within the VBA, described by the function readme within.
 
 
